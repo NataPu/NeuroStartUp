@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![NeuroStartUp](C:\Users\Natalie\Desktop\logo.png)
+![NeuroStartUp](https://github.com/NataPu/NeuroStartUp/blob/main/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
